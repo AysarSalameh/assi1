@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assi1</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="multiplication_table">Multiplication table</string>
+    <string name="game_quiz">Game Quiz</string>
+    <string name="quiz_questions">Quiz questions</string>
+</resources>
